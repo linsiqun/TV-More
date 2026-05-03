@@ -17,13 +17,12 @@
 <h4 id="downloader-codes">5、電視多(TTVDOTV)：特別注意；剛開始軟體播放的時候，有兩三分鐘繞圈圈在防盜聯，防偵測。</h4>
 <div class="PlusView-contentArea" style="height: 300px;"><img src="https://github.com/linsiqun/TTVDOTV/blob/main/Screenshot_20260503-222015.png" /></div>
 <div class="PlusView-contentArea" style="height: 300px;"><img src="https://github.com/linsiqun/TTVDOTV/blob/main/Screenshot_20260503-222209.png" /></div>
-<h4 id="downloader-codes">1、专为电视屏幕设计</h4>	
-
-<h4 id="downloader-codes">2、最高支持 2K 视频分辨率</h4>	
-
-<h4 id="downloader-codes">3、支持带 Google 环境的服务设备</h4>	
-
-<h4 id="downloader-codes">4、免費</h4>	
+<h4 id="downloader-codes">1、本軟體資源是共享而來，為了避免個人資料外洩。請不要在電視機，手機上進行安裝。</h4>	
+<h4 id="downloader-codes">2、建議安裝在開源安卓機上盒Android 版本6.0以上</h4>	
+<h4 id="downloader-codes">3、最高支持 2K 视频分辨率</h4>	
+<h4 id="downloader-codes">4、专为电视屏幕设计</h4>	
+<h4 id="downloader-codes">5、支持带 Google 环境的服务设备</h4>	
+<h4 id="downloader-codes">6、免費</h4>	
 <div class="PlusView-contentArea" style="height: 300px;"><img src="https://github.com/linsiqun/TTVDOTV/blob/main/Screenshot_20260503-222714.png" /></div>
 <div class="PlusView-contentArea" style="height: 300px;"><img src="https://github.com/linsiqun/TTVDOTV/blob/main/Screenshot_20260503-222052.png" /></div>
 
